@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Windows
+2. Linux
+3. Video games
+4. School
